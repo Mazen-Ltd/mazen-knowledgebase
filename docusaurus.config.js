@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Mazen Knowledgebase',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Mazen Knowledgebase',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -76,9 +76,8 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Mazen-Ltd',
             label: 'GitHub',
             position: 'right',
           },
