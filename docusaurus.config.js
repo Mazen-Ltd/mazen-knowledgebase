@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://knowledge.mazenhost.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Mazen Ltd.', // Usually your GitHub org/user name.
+  projectName: 'knowledgebase mazen', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,7 +31,6 @@ const config = {
     defaultLocale: 'en',
     locales: ['en', 'bg'],
   },
-
   presets: [
     [
       'classic',
@@ -63,6 +62,10 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+      },
       navbar: {
         title: 'Mazen Knowledgebase',
         logo: {
@@ -71,7 +74,7 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
+            type: 'localeDropdown',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
@@ -85,8 +88,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Mazen Ltd.`,
       },
       prism: {
