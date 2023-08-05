@@ -66,6 +66,14 @@ const config = {
         defaultMode: "dark",
         disableSwitch: false,
       },
+      /* This key is safe to be exposed here, it only sends info. */
+      algolia: {
+        apiKey: "4f1dcbb1f3e77881e08271b52e7b0722",
+        appId: 'O5WV7LRP6W',
+        indexName: "mazen-knowledge",
+        contextualSearch: true,
+        searchParameters: {},
+      },
       navbar: {
         title: 'Mazen Knowledgebase',
         logo: {
