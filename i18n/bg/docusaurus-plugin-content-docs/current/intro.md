@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# MazenHost.bg KnowledgeBase
+# KnowledgeBase Начало
 
 Добре дошъл в нашият наръчник!
 
