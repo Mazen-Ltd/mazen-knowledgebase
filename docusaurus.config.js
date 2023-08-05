@@ -67,7 +67,7 @@ const config = {
         title: 'Mazen Knowledgebase',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/mazen-logo.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
