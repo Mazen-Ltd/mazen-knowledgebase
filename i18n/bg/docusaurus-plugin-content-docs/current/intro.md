@@ -1,7 +1,11 @@
 ---
+title: KnowledgeBase Начало
+slug: /
+hide_title: true
+hide_table_of_contents: true
+sidebar_label: KnowledgeBase Начало
 sidebar_position: 1
 ---
-
 
 # KnowledgeBase Начало
 
