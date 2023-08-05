@@ -10,7 +10,7 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
+  // Set the production ur  l of your site here
   url: 'https://mazen-website.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
@@ -54,14 +54,16 @@ const config = {
         defaultMode: "dark",
         disableSwitch: false,
       },
+      //TODO: add algolia search when the knowledgebase is ready, because it requires to open source it and have it with a legit domain
+
       /* This key is safe to be exposed here, it only sends info. */
-      algolia: {
-        apiKey: "4f1dcbb1f3e77881e08271b52e7b0722",
-        appId: 'O5WV7LRP6W',
-        indexName: "mazen-knowledge",
-        contextualSearch: true,
-        searchParameters: {},
-      },
+      // algolia: {
+      //   apiKey: "4f1dcbb1f3e77881e08271b52e7b0722",
+      //   appId: 'O5WV7LRP6W',
+      //   indexName: "mazen-knowledge",
+      //   contextualSearch: true,
+      //   searchParameters: {},
+      // },
       navbar: {
         title: 'Mazen Knowledgebase',
         logo: {
