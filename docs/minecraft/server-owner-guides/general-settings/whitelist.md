@@ -2,5 +2,5 @@
 sidebar_position: 4
 ---
 
-# -> Как да сложим Whitelist?  
+#  Как да сложим Whitelist?  
 

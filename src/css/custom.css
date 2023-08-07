@@ -32,3 +32,17 @@
   display: none;
 }
 
+.menu__link--sublist {
+  font-size: 18px;
+  background-color: #242526;
+}
+
+blockquote {
+  border-left: 5px solid #c47001;
+  line-height: 1.5;
+  padding: 10px;
+}
+
+.menu__list {
+  font-size: 14px;
+}
