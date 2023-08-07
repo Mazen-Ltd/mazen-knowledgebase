@@ -2,5 +2,5 @@
 sidebar_position: 1
 ---
 
-# From where to start?
+# -> Как да започнем?
 
