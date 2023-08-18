@@ -79,7 +79,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} . Company registered in Bulgaria (Sofia) | VAT BG206086969`,
+        copyright: `Copyright © ${new Date().getFullYear()} . Docusaurus x Mazen Ltd. Company registered in Bulgaria (Sofia) | VAT BG206086969`,
       },
       prism: {
         theme: lightCodeTheme,
