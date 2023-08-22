@@ -1,12 +1,8 @@
 ---
 sidebar_position: 4
-hide_title: true
-sidebar_label: Как да сложим Whitelist?
 ---
 
-<img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
-
-# Как да сложим Whitelist?
+#  Как да сложим Whitelist?  
 
 Белият Списък е полезна функция, която Minecraft предоставя за ограничаване на достъпа до сървър.
 
@@ -27,3 +23,4 @@ sidebar_label: Как да сложим Whitelist?
 Не подкрепяме пиратството! Сървъри с опцията ``online-mode=false`` не работят правилно с функциите на Whitelist!
 
 :::
+
