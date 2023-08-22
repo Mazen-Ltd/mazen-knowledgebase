@@ -1,6 +1,10 @@
 ---
 sidebar_position: 2
+hide_title: true
+sidebar_label: MOTD & Икона на сървъра
 ---
+
+<img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 #  MOTD & Икона на сървъра
 
@@ -9,7 +13,7 @@ sidebar_position: 2
 То може да бъде променено по няколко начина, които ще разгледаме.
 
 ### Промяна чрез файла ``server.properties``
-Най-лесния начин MOTD да се промени е именно от файла ``server.properties``. Опцията се намира на ред 12 и изглежда по следния начин: ``motd=A Minecraft Server``
+Най-лесния начин MOTD да се промени е именно от файла ``server.properties``. Опцията се намира на ред #12 и изглежда по следния начин: ``motd=A Minecraft Server``
 
 :::tip Моят Съвет
 
