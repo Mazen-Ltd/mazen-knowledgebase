@@ -1,19 +1,21 @@
 ---
 sidebar_position: 2
 hide_title: true
-title: Оптимизация на сървъра
-sidebar_label: Оптимизация на сървъра
+title: Оптимизирай сървъра си
+sidebar_label: Оптимизирай сървъра си
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Оптимизация на сървъра</h1>
+<h1>Оптимизирай сървъра си</h1>
 </div>
 
 След като си прочел **[Намери причината за лаг](find-cause.md)**, то най-вероятно се чудиш как да оптимизираш сървъра си.
 Ако си нов в ръководството или пък администрацията на сървъри, ти препоръчвам да погледнеш статията
 **[Избиране на версия и софтуер]**.
+
+---
 
 ## [YouHaveTrouble - minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization)
 Силно препоръчвам да прочетеш ръководството на YouHaveTrouble относно сървърната оптимизация, защото то покрива редица
