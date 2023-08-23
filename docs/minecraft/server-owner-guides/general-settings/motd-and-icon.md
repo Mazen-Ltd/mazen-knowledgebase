@@ -1,12 +1,15 @@
 ---
 sidebar_position: 2
 hide_title: true
+title: MOTD & Икона на сървъра
 sidebar_label: MOTD & Икона на сървъра
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
-#  MOTD & Икона на сървъра
+<div class="text--center">
+<h1>MOTD & Икона на сървъра</h1>
+</div>
 
 ## Message of the Day (MOTD)
 На Български, "съобщението на деня" са двете линии, които се показват на играч, когато той добави сървър към листа си със сървъри в Minecraft.

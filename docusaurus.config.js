@@ -8,9 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Mazen Knowledgebase',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
 
-  // Set the production ur  l of your site here
+  // Set the production url of your site here
   url: 'https://mazen-website.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Mazen Ltd.', // Usually your GitHub org/user name.
+  organizationName: 'Mazen Ltd.', // Usually your GitHub org/username.
   projectName: 'knowledgebase mazen', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -54,7 +54,7 @@ const config = {
         defaultMode: "dark",
         disableSwitch: false,
       },
-      //TODO: add algolia search when the knowledgebase is ready, because it requires to open source it and have it with a legit domain
+      //TODO: add algolia search when the knowledge base is ready, because it requires to open source it and have it with a legit domain
 
       /* This key is safe to be exposed here, it only sends info. */
       // algolia: {
@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'Mazen Knowledgebase',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'MazenHost Logo',
           src: 'img/logo.svg',
         },
         items: [

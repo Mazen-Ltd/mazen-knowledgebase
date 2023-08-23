@@ -1,12 +1,15 @@
 ---
 sidebar_position: 6
 hide_title: true
+title: Добавяне на Data Pack
 sidebar_label: Добавяне на Data Pack
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
-#  Добавяне на Data Pack
+<div class="text--center">
+<h1>Добавяне на Data Pack</h1>
+</div>
 
 Data Packs са добър начин да добавиш допълнителни неща към своя Minecraft сървър, като например нови мобове, биоми, предмети и др. Те не са напълно съвместими със всички сървърни софтуери.
 
