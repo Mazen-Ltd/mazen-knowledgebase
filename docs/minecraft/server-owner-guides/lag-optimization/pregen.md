@@ -30,7 +30,7 @@ sidebar_label: Прегенерация на чънкове
 :::info Информация
 
 В случай, че не знаеш как се инсталира плъгин, чувствай се свободен да посетиш статията
-**[Добавяне на Plugin](docs/minecraft/server-owner-guides/general-settings/add-plugin.md)**.
+**[Добавяне на Plugin]**.
 
 :::
 

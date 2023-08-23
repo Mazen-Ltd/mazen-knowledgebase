@@ -13,7 +13,7 @@ sidebar_label: Оптимизация на сървъра
 
 След като си прочел **[Намери причината за лаг](find-cause.md)**, то най-вероятно се чудиш как да оптимизираш сървъра си.
 Ако си нов в ръководството или пък администрацията на сървъри, ти препоръчвам да погледнеш статията
-**[Избиране на версия и софтуер](docs/minecraft/server-owner-guides/general-settings/minecraft-version.md)**.
+**[Избиране на версия и софтуер]**.
 
 ## [YouHaveTrouble - minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization)
 Силно препоръчвам да прочетеш ръководството на YouHaveTrouble относно сървърната оптимизация, защото то покрива редица
