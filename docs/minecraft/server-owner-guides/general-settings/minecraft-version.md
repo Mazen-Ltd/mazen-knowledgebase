@@ -3,6 +3,7 @@ sidebar_position: 1
 hide_title: true
 title: Избиране на версия и софтуер
 sidebar_label: Избиране на версия и софтуер
+description: Разликите между различните версии и сървърни софтуерии за Minecraft сървъри
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

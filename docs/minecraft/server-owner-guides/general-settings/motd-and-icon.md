@@ -3,6 +3,7 @@ sidebar_position: 2
 hide_title: true
 title: MOTD & Икона на сървъра
 sidebar_label: MOTD & Икона на сървъра
+description: Как да променим MOTD на нашия Minecraft сървър & Как да добавим Server-Icon на нашия Minecraft сървър
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

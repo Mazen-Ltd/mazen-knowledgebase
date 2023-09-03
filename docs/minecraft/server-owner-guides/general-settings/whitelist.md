@@ -3,6 +3,7 @@ sidebar_position: 4
 hide_title: true
 title: Как да сложим Whitelist
 sidebar_label: Как да сложим Whitelist
+description: Как да сложим Whitelist на нашия Minecraft сървър
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

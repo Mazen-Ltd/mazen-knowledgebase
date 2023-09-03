@@ -3,6 +3,7 @@ sidebar_position: 3
 hide_title: true
 title: Мигриране на свят от/към Vanilla
 sidebar_label: Мигриране на свят от/към Vanilla
+description: Как да мигрираме свят от/към Vanilla
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

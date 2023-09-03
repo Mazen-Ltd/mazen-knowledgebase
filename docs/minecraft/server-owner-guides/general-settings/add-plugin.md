@@ -3,6 +3,7 @@ sidebar_position: 5
 hide_title: true
 title: Добавяне на Plugin
 sidebar_label: Добавяне на Plugin
+description: Как да добавим Plugin в нашия Minecraft сървър
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

@@ -3,6 +3,7 @@ sidebar_position: 6
 hide_title: true
 title: Добавяне на Data Pack
 sidebar_label: Добавяне на Data Pack
+description: Как да добавим Data Pack в нашия Minecraft сървър
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
