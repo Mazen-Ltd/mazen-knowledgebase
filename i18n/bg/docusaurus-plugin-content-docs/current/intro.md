@@ -1,22 +1,23 @@
 ---
-title: KnowledgeBase Beginning
+title: KnowledgeBase Начало
 slug: /
 hide_title: true
 hide_table_of_contents: true
-sidebar_label: KnowledgeBase Beginning
+sidebar_label: KnowledgeBase Начало
 sidebar_position: 1
 ---
 
-# KnowledgeBase Beginning
+# KnowledgeBase Начало
 
-Welcome to our knowledgebase!
+Добре дошъл в нашия наръчник!
 
-## Let's Get Started
+## Нека започнем
 
-**In this knowledgebase**, you will find numerous tutorials and videos to help you control your service(s) quickly and easily.
+**В този помощник** ще откриеш множество наръчници и видеа, за да контролираш услугата си супер бързо и лесно.
 
-**You will learn** some more complex concepts and discover interesting and different approaches.
+**Ще разбереш** някои по-сложни концепции и ще научиш интересни и различни подходи.
 
-### Think Something Is Missing?
 
-Write to us on [Discord](https://discord.com/invite/Htq7AVS) or open a ticket on our website, and we will consider your idea and add new helpful resources.
+### Смяташ, че нещо липсва?
+
+Пиши ни по [Discord](https://discord.com/invite/Htq7AVS) или отвори билет в сайта ни и ние ще разгледаме идеята ти и ще добавим нови помощни ресурси.
