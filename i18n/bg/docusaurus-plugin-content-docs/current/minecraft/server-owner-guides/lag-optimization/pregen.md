@@ -37,7 +37,7 @@ description: Как да прегенерираме чънковете на св
 :::info Информация
 
 В случай, че не знаеш как се инсталира плъгин, чувствай се свободен да посетиш статията
-**[Добавяне на Plugin](/current/minecraft/server-owner-guides/general-settings/add-plugin.md)**.
+**[Добавяне на Plugin](i18n/bg/docusaurus-plugin-content-docs/current/minecraft/server-owner-guides/general-settings/add-plugin.md)**.
 
 :::
 
