@@ -1,8 +1,8 @@
 {
-  "label": "Лаг и оптимизация",
+  "label": "Lag and Optimization",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Как да установиш какво причинява лаг и да го отстраниш."
+    "description": "How to find and fix the cause of lag on your Minecraft server."
   }
 }

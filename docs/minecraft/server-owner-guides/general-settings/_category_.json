@@ -1,8 +1,8 @@
 {
-  "label": "Основни настройки и сетъп",
+  "label": "General Settings and Setup",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Основни настройки, които можеш първоначално да приложиш при сетъп."
+    "description": "General settings which you can apply when setting up your Minecraft server."
   }
 }

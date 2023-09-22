@@ -1,8 +1,8 @@
 {
-  "label": "Добри практики и трикове",
+  "label": "Best Practices and Tips",
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "Добри практики при поддръжката и администрацията на публичен Minecraft сървър."
+    "description": "Best practices when managing & administrating your public Minecraft server."
   }
 }

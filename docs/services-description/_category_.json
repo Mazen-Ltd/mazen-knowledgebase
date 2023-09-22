@@ -1,8 +1,8 @@
 {
-  "label": "Характеристика на услугите",
+  "label": "Services Specifications",
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Научи всичко което ти трябва да знаеш за клиентската ни зона разплащания и подновяване, ъпгрейди на услуги."
+    "description": "Specs. & Descriptions of our Minecraft and VPS services."
   }
 }

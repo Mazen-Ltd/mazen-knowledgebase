@@ -1,8 +1,8 @@
 {
-  "label": "Полезни плъгини",
+  "label": "Useful Plugins",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Списък с полезни плъгини, които да използваш в Minecraft сървъра си!"
+    "description": "A list of useful plugins which you can use to make your Minecraft server better!"
   }
 }
