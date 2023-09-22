@@ -1,47 +1,47 @@
 ---
 sidebar_position: 6
 hide_title: true
-title: Добавяне на Data Pack
-sidebar_label: Добавяне на Data Pack
-description: Как да добавим Data Pack в нашия Minecraft сървър
+title: Adding a Data Pack
+sidebar_label: Adding a Data Pack
+description: How to add a Data Pack to your Minecraft server
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Добавяне на Data Pack</h1>
+<h1>Adding a Data Pack</h1>
 </div>
 
-Data Packs са добър начин да добавиш допълнителни неща към своя Minecraft сървър, като например нови мобове, биоми, предмети и др. Те не са напълно съвместими със всички сървърни софтуери.
+Data Packs are a great way to add additional elements to your Minecraft server, such as new mobs, biomes, items, and more. They are not entirely compatible with all server software.
 
-Те могат да бъдат добавени, както към нормален свят, то така и към Minecrat сървър.
+They can be added to both a normal world and a Minecraft server.
 
 ---
 
-## Как да добавим Data Pack
+## How to Add a Data Pack
 
-1. Изтегли Data Pack, който искаш да използваш. Обикновенно, той би трябвало да е под формата на ``.zip`` архив.
-2. Свържи се към сървъра чрез FTP/sFTP клиент, като например WinSCP.
-3. Отвори папката на света на сървъра, най-често ``/world``.
-4. След това, отвори папката ``/datapacks``.
-5. Постави архива в папката и го изчакай да се качи. Времето, което ще отнеме за Data Pack да се качи варира спрямо интернет връзката и скоростта на интернет, с която разполагаш.
-6. След като си готов с качването, просто рестартирай сървъра си!
+1. Download the Data Pack you want to use. Typically, it should be in the form of a `.zip` archive.
+2. Connect to the server using an FTP/sFTP client, such as WinSCP.
+3. Open the folder of the server's world, often `/world`.
+4. Then, open the `/datapacks` folder.
+5. Place the archive in the folder and wait for it to upload. The time it takes for the Data Pack to upload varies depending on your internet connection and internet speed.
+6. Once you've finished uploading, simply restart your server!
 
-Това са всички стъпки, които трябва да следваш, за да добавиш Data Pack към сървъра си.
+These are all the steps you need to follow to add a Data Pack to your server.
 
-:::caution Внимание
+:::caution Caution
 
-Имай на предвид, че Data Pack не винаги може ефективно да замени определен плъгин. Ако искаш повече и по-сложна функционалност, то най-добре ще е да използваш плъгин, който я предоставя. Статията ни [**Добавяне на Плъгин**](add-plugin.md) ще ти помогне да добавиш плъгин към сървъра си!
+Keep in mind that a Data Pack may not always effectively replace a specific plugin. If you want more complex and advanced functionality, it's best to use a plugin that provides it. Our article on [**Adding a Plugin**](add-plugin.md) will help you add a plugin to your server!
 
 :::
 
 ---
 
-## Откъде да изтеглим нов Data Pack
+## Where to Download a New Data Pack
 
-Ето ти списък с известни и добре познати уебсайтове, т.е. платформи за дистрибуцията на Data Packs.
+Here is a list of well-known and reputable websites, i.e., platforms for distributing Data Packs.
 
-### Списък
+### List
 
 ### [Planet Minecraft](https://www.planetminecraft.com/)
 

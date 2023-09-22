@@ -1,69 +1,59 @@
 ---
 sidebar_position: 1
 hide_title: true
-title: Бъди наясно какво правиш
-sidebar_label: Бъди наясно какво правиш
-description: Добри практики и трикове при администрацията на Minecraft сървър - Бъди наясно какво правиш
+title: Be Aware of What You're Doing
+sidebar_label: Be Aware of What You're Doing
+description: Best practices and tricks for Minecraft server administration - Be Aware of What You're Doing
 image: /img/banner.png
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Бъди наясно какво правиш (1/6)</h1>
+<h1>Be Aware of What You're Doing (1/6)</h1>
 </div>
 
-Това е наръчник с добри практики и трикове спрямо управлението и администрацията на публичен Minecraft сървър.
-Съветите тук могат да бъдат приложени, както за по-малки, то така и за по-големи сървъри.  Това, което те целят е да ти 
-помогнат да намериш насока и да се научиш да решаваш проблемите си самостоятелно или чрез намирането на 
-съответното място, на което да получиш помощ.
+This is a guide of best practices and tricks for managing and administering a public Minecraft server.
+The advice here can be applied to both smaller and larger servers. Their aim is to help you find direction
+and learn to solve your problems independently or by finding the right place to seek assistance.
 
-Статиите в тази категория са експертно подбрани, както и написани от хора с дългогодишен опит в 
-управлението, администрацията и ръководството на публични Minecraft сървъри с изградена база от играчи.
+The articles in this category are expertly selected and written by individuals with years of experience in
+the management, administration, and leadership of public Minecraft servers with an established player base.
 
-Ако смяташ, че имаш опита и експертизата да помогнеш да развием статиите, които имаме в тази област, то не се колебай да ни пишеш!
-
----
-
-## Обмисляй идеите си
-Преди да тръгнеш да добавяш някоя своя нова идея към сървъра си е хубаво да обмислиш как тази идея би повлияла на
-останалите неща, които са вече добавени към сървъра. Например, как това нещо ще афектира играта, играчите, може би
-ще я улесни или пък направи по-трудна. Разбира се, това са само примерни въпроси, но нищо не пречи да измислиш и още
-спрямо личните ти нужди или пък тези на сървъра.
+If you believe you have the experience and expertise to help us develop the articles we have in this area,
+do not hesitate to contact us!
 
 ---
 
-## Бъди отворен към чуждото мнение
-Важен фактор към ръководството на един публичен Minecraft сървър е именно това да бъдеш отворен към чуждото мнение.
-Това означава, че понякога е хубаво да се вслушваш в това, което играчите мислят. Да, вярно е, че може би не всяко
-мнение ще бъде хубаво или пък ще може да се приложи, но това показва, че все пак приемаш и чужди идеи.
-
-Също ще вметна, че Minecraft сървъра ти е е твой собствен свят, който ти преценяваш как да управляваш.
-
-### Посъветвай се с играчите и екипа
-Понякога, когато имаш нужда от съвет с имплементацията на дадена идея е хубаво да се посъветваш с някой друг. Не винаги
-можеш да предвидиш сам всичките начини, по които една промяна би могла да афектира сървъра ти.
-
-Именно заради това е добре да се съветваш с играчите и екипа си. Разбира се, ти преценяваш мнението на коя група
-би било по-приоритетно за теб. Лично аз бих те посъветвал, ако взимаш мнение от играч, то това да е честен играч, който
-има добра и добре изградена репутация в сървъра ти.
-
-### Направи анкета
-Анкетите са хубав начин да събереш ценна информация относно това какво играчите мислят за сървъра ти. Тя може да включва
-разнообразни въпроси относно играта в сървъра, администрацията и ръководството, имплементацията на нови идеи и т.н.
-
-Освен анкетите, гласуване също би било полезно, ако разбира се искаш нещата са малко по-демократични.
-
-### Направи статистика
-Чрез добре направена статистика ще можеш да разбереш ключови елементи за играта или играчите в сървъра ти. Тя може
-да е базирана на анкета, в която да зададеш на играчите по-лични въпроси. Например, кой им е любимия жанр игри, какви
-игри обичат да играят, какви игри са играли и т.н.
-
-Силно ти препоръчвам при направта на анкета или статистика да запазваш анонимността на играчите в тайна освен, ако
-наистина не се нуждаеш от това да знаеш кой играч е предоставил мнение!
+## Consider Your Ideas
+Before you start adding any of your new ideas to the server, it's a good idea to consider how this idea would impact
+the other things that are already added to the server. For example, how will this affect the gameplay, the players,
+perhaps making it easier or more challenging. Of course, these are just sample questions, but there's nothing stopping
+you from thinking of more based on your personal needs or those of the server.
 
 ---
 
-## Не се страхувай да експериментираш
-Ако пък сървъра ти няма голяма база от играчи, може би е добре да експериментираш и да видиш кое би се харесало. Не се
-страхувай да го правиш, защото това е един от най-добрите начини да разбереш дали идеята ти би се харесала.
+## Be Open to Others' Opinions
+An essential factor in managing a public Minecraft server is being open to others' opinions. This means that sometimes it's good to listen to what players think. Yes, it's true that not every opinion will be good or applicable, but it shows that you're willing to consider others' ideas.
+
+Also, I'll note that your Minecraft server is your own world, and you decide how to manage it.
+
+### Consult with Players and Your Team
+Sometimes, when you need advice on implementing a particular idea, it's good to consult with someone else. You can't always anticipate all the ways a change could affect your server.
+
+That's why it's a good practice to consult with your players and your staff team. Of course, you can prioritize whose opinion matters most to you. Personally, I would advise you to seek input from honest players who have a good and well-established reputation on your server.
+
+### Conduct Surveys
+Surveys are an excellent way to gather valuable information about what players think about your server. They can include various questions about the gameplay on the server, administration, and management, the implementation of new ideas, and so on.
+
+In addition to surveys, voting can also be helpful if you want things to be a bit more democratic.
+
+### Compile Statistics
+By creating well-crafted statistics, you can understand key elements of the game or your players on your server. It can be based on a survey where you ask players more personal questions. For example, what's their favorite game genre, what games they like to play, what games they've played before, and so on.
+
+I strongly recommend that when creating a survey or gathering statistics, you keep players' anonymity confidental unless you truly need to know which player provided an opinion!
+
+---
+
+## Don't Be Afraid to Experiment
+If your server doesn't have a large player base, it might be a good idea to experiment and see what would be well-received. Don't be afraid to do it because it's one of the best ways to find out if your idea would be liked.

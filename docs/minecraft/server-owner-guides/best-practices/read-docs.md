@@ -1,34 +1,24 @@
 ---
 sidebar_position: 5
 hide_title: true
-title: Документацията е твой приятел
-sidebar_label: Документацията е твой приятел
-description: Добри практики и трикове при администрацията на Minecraft сървър - Документацията е твой приятел
+title: Documentation Is Your Friend
+sidebar_label: Documentation Is Your Friend
+description: Best practices and tricks for Minecraft server administration - Documentation Is Your Friend
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Документацията е твой приятел (5/6)</h1>
+<h1>Documentation Is Your Friend (5/6)</h1>
 </div>
 
-Понякога при управлението на един сървър се сблъскваме с проблем с някой плъгин. Може би това ще е някоя настройка на
-даден плъгин или пък няма да можеш да настройш друг такъв. Е не се притеснявай, защото както може би знаеш от заглавието
-на статията - "Документацията е твой приятел!"
+Sometimes, in managing a server, we encounter problems with a plugin. Perhaps it's a specific setting of a particular plugin, or you might not be able to configure another one. Well, don't worry because as you probably know from the title of the article - "Documentation Is Your Friend!"
 
-## Какво е документацията
-Нека започмен с въпроса: какво е документацията? Обикновено, когато настройваме плъгините на нашия Minecraft сървър
-доста често ще се налага да четем тяхната документация. За нея можем да мислим като ръководство към плъгина, например
-като ръководството на автомобил(да, книжките, които държим в джапката) или пък това на някой ел. уред, като телевизор.
+## What Is Documentation
+Let's start with the question: what is documentation? Usually, when we configure plugins on our Minecraft server, we often have to read their documentation. We can think of it as a guide to the plugin, like the manual for a car (yes, the booklets we keep in the glove compartment) or the manual for an electronic device like a TV.
 
-### Какво съдържа документацията
-В повечето случаи документацията на един плъгин е доста по-подробна от тези на ел. уреди(обратното не може да бъде
-казано за ръководствата на автомобилите обаче), като там се съдържа важна информация за плъгина. Функции, които
-плъгина изпълнява или предлага, подробно описание на настройките на плъгина, как се използват командите
-на плъгина, други плъгини, с които този плъгин има съвместимост и т.н.
+### What Documentation Contains
+In most cases, the documentation of a plugin is much more detailed than those of electronic devices (the same cannot be said for car manuals, though), and it contains important information about the plugin. It includes the functions the plugin performs or offers, a detailed description of the plugin's settings, how to use the plugin's commands, other plugins that this plugin is compatible with, and so on.
 
-## Кога да се обърнеш към документацията
-Към документацията можеш да се обърнеш по всяко време. Обикновенно това е когато имаме определен проблем с плъгина или
-не знаем какво прави някоя настройка. В повечето случаи обаче, конфигурационните файлове с настройките идват с т.нар.
-коментари, които обясняват какво прави определена настройка. Понякога тези коментари могат да посочват документацията
-за повече информация относно настройката.
+## When to Refer to Documentation
+You can refer to the documentation at any time. Usually, it's when we have a specific problem with the plugin or don't know what a particular setting does. In most cases, though, configuration files with settings come with so-called comments that explain what a specific setting does. Sometimes, these comments may point to the documentation for more information about the setting.

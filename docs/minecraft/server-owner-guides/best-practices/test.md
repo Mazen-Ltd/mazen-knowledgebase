@@ -1,30 +1,24 @@
 ---
 sidebar_position: 6
 hide_title: true
-title: Тествай всичко
-sidebar_label: Тествай всичко
-description: Добри практики и трикове при администрацията на Minecraft сървър - Тествай всичко
+title: Test Everything
+sidebar_label: Test Everything
+description: Best practices and tricks for Minecraft server administration - Test Everything
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Тествай всичко (6/6)</h1>
+<h1>Test Everything (6/6)</h1>
 </div>
 
-Чудесно е когато тестваме нови промени, които планираме да добавим към сървъра си. Това, което не е чудесно е когато
-тези промени причиняват грешки или проблеми. Именно заради това винаги е добре да следваме няколко принципа, за които
-ще научиш от тази статия.
+It's great when we test new changes that we plan to add to our server. What's not great is when these changes cause errors or issues. That's why it's always good to follow a few principles, which you will learn from this article.
 
-## Сървъра има значение
-Когато тестваме нещо, което планираме да добавим или премахнем е хубаво да го правим на отделен Minecraft сървър.
-Концепцията е както следва.
+## The Server Matters
+When we test something we plan to add or remove, it's best to do it on a separate Minecraft server. The concept goes like this.
 
-### Публичен Minecraft сървър (Production Server)
-Това е главния ни сървър, в който играят реални, активни играчи. Обикновенно се намира на машина, която е специално
-пригодена за хостинг на публични гейм сървъри, вкл. Minecraft сървъри.
+### Public Minecraft Server (Production Server)
+This is our main server where real, active players play. It is usually hosted on a machine specially configured for hosting public game servers, including Minecraft servers.
 
-### Тестови Minecraft сървър (Test Server)
-Това е сървъра, в който трябва да тестваме всичко, което планираме да добавим пък публичния сървър. Обикновенно е сървър
-на отделна машина, която най-често е нашия компютър. Имаме лесен достъп до сървъра и можем да променяме настройки бързо
-и лесно.
+### Test Minecraft Server (Test Server)
+This is the server where we should test everything we plan to add to the public server. It's usually a server on a separate machine, which is often our computer. We have easy access to the server, and we can quickly and easily change settings.

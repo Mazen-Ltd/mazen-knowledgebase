@@ -1,19 +1,18 @@
 ---
 sidebar_position: 4
 hide_title: true
-title: Решавай проблеми бързо
-sidebar_label: Решавай проблеми бързо
-description: Добри практики и трикове при администрацията на Minecraft сървър - Решавай проблеми бързо
+title: Solve Problems Quickly
+sidebar_label: Solve Problems Quickly
+description: Best practices and tricks for Minecraft server administration - Solve Problems Quickly
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Решавай проблеми бързо (4/6)</h1>
+<h1>Solve Problems Quickly (4/6)</h1>
 </div>
 
-Доста често при администрацията и ръководството на един Minecraft сървър се сблъскваме с проблеми. Мда, факт е, че те са
-нещо неизбежно. Именно за това ние трябва да знаем как бързо да взимаме решения и да решаваме проблемите си ефективно.
+Quite often, in the administration and management of a Minecraft server, we encounter problems. Well, it's a fact that they are
+inevitable. That's why we need to know how to make quick decisions and solve our problems effectively.
 
-Колкото и неприятна да звучи темата, то рано или късно ще се сбълскам с проблем, на който ще трябва да намерим решение
-в малък период от време.
+As unpleasant as it may sound, sooner or later, we will face a problem that we will need to find a solution for in a short period of time.

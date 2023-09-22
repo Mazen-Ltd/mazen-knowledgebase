@@ -1,55 +1,54 @@
 ---
 sidebar_position: 5
 hide_title: true
-title: Добавяне на Plugin
-sidebar_label: Добавяне на Plugin
-description: Как да добавим Plugin в нашия Minecraft сървър
+title: Adding a Plugin
+sidebar_label: Adding a Plugin
+description: How to add a Plugin to your Minecraft server
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Добавяне на Plugin</h1>
+<h1>Adding a Plugin</h1>
 </div>
 
-Плъгините са добавки, които могат да добавят допълнителни неща, както и функционалност към Minecraft сървъра ти. Това може да бъде под формата на мобове, биоми, мощни команди и др.
+Plugins are addons that can add additional elements and functionality to your Minecraft server, such as mobs, biomes, powerful commands, and more.
 
-За разлика от Data Pack, плъгините са поддържани само от софтуерите - Spigot, Paper, Pufferfish, Purpur и т.н. Те не могат да се инсталират на сървър, който използва Vanilla сървърния софтуер!
-
----
-
-## Как да добавим Plugin
-
-1. Изтегли плъгин, който желаеш да използваш от сайт като SpigotMC или BuiltByBit.
-2. Свържи се към сървъра чрез FTP/sFTP клиент, като например WinSCP.
-3. Отвори папката ``/plugins``, в която се добавят плъгините.
-4. Постави плъгина в папката и го изчакай, за да се качи. Времето, което ще отнеме за плъгин да се качи варира спрямо интернет връзката и скоростта на интернет, с която разполагаш. Това не би трябвало да отнеме много, тъй като повечето плъгини са с малък размер не превишаващ няколко MB-та.
-5. Рестартирай сървъра си!
-6. При повторното стартиране на сървъра, то плъгина ще се зареди и вече ще можеш да го използваш.
-
-:::tip Моят съвет
-
-Използвай командата ``/plugins`` в играта или в конзолата без ``/``, за да видиш дали плъгинът е бил зареден успешно. Ако е в зелено, поздравления, защото плъгина, който си инсталирал е бил успешно зареден!
-
-:::
-
-:::note Забележка
-
-В случай, че плъгина се показва в червено при ползването на командата ``/plugins``, то значи той не е бил зареден. 
-Това най-вероятно е причинено от едно или няколко от следните неща:
-**а)** плъгина е несъвместим с версията на играта;
-**б)** плъгина изисква друг, допълнителен плъгин, за да може да функционира правилно.
-**в)** плъгина е развален и изисква поправка от разработчика му.
-
-:::
+Unlike Data Packs, plugins are only supported by software like Spigot, Paper, Pufferfish, Purpur, and others. They cannot be installed on a server using Vanilla server software!
 
 ---
 
-## Откъде да изтеглим нов Plugin
+## How to Add a Plugin
 
-Ето ти списък с известни и добре познати уебсайтове, т.е. платформи за дистрибуцията на плъгини.
+1. Download the plugin you want to use from a website like SpigotMC or BuiltByBit.
+2. Connect to the server using an FTP/sFTP client, such as WinSCP.
+3. Open the `/plugins` folder, where plugins are placed.
+4. Put the plugin in the folder and wait for it to upload. The time it takes for the plugin to upload varies depending on your internet connection and internet speed. This should not take much time, as most plugins are small in size, not exceeding a few MBs.
+5. Restart your server!
+6. When you restart the server, the plugin will load, and you can start using it.
 
-### Списък
+:::tip My Advice
+
+Use the command `/plugins` in the game or in the console without `/` to see if the plugin has been loaded successfully. If it's shown in green, congratulations, the plugin you installed has been successfully loaded!
+
+:::
+
+:::note Note
+
+If the plugin appears in red when using the `/plugins` command, it means it hasn't been loaded. This is likely caused by one or several of the following:
+**a)** The plugin is incompatible with the game version.
+**b)** The plugin requires another additional plugin to function correctly.
+**c)** The plugin is broken and needs fixing by its developer.
+
+:::
+
+---
+
+## Where to Download a New Plugin
+
+Here is a list of well-known and reputable websites, i.e., platforms for distributing plugins.
+
+### List
 
 ### [Bukkit](https://dev.bukkit.org/)
 
@@ -63,8 +62,8 @@ description: Как да добавим Plugin в нашия Minecraft сърв�
 
 ### [Hangar](https://hangar.papermc.io/)
 
-:::info Информация
+:::info Information
 
-Напълно възможно е един плъгин или ресурс да е наличен на повече от една платформа, т.е. уебсайт. Всяка от изброените предлага различна визия, функции и качество на библиотеката си от ресурси.
+It is entirely possible for a plugin or resource to be available on more than one platform, i.e., website. Each of the listed ones offers a different look, features, and quality of their resource library.
 
 :::

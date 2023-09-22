@@ -1,43 +1,41 @@
 ---
 sidebar_position: 2
 hide_title: true
-title: MOTD & Икона на сървъра
-sidebar_label: MOTD & Икона на сървъра
-description: Как да променим MOTD на нашия Minecraft сървър & Как да добавим Server-Icon на нашия Minecraft сървър
+title: MOTD & Server Icon
+sidebar_label: MOTD & Server Icon
+description: How to change the MOTD on your Minecraft server & How to add a Server Icon to your Minecraft server
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>MOTD & Икона на сървъра</h1>
+<h1>MOTD & Server Icon</h1>
 </div>
 
 ---
 
 ## Message of the Day (MOTD)
-На Български, "съобщението на деня" са двете линии, които се показват на играч, когато той добави сървър към листа си със сървъри в Minecraft.
-То може да бъде променено по няколко начина, които ще разгледаме.
+In Bulgarian, "Message of the Day" refers to the two lines displayed to a player when they add a server to their server list in Minecraft. It can be changed in several ways, which we will explore.
 
-### Промяна чрез файла ``server.properties``
-Най-лесния начин MOTD да се промени е именно от файла ``server.properties``. Опцията се намира на ред #12 и изглежда по следния начин: ``motd=A Minecraft Server``
+### Changing via the `server.properties` File
+The easiest way to change the MOTD is through the `server.properties` file. The option is located on line #12 and appears as follows: `motd=A Minecraft Server`
 
-:::tip Моят Съвет
+:::tip My Advice
 
-Използвай уебсайта [Minecraft Server Tools](https://mctools.org/motd-creator), за да създадеш MOTD по-лесно!
+Use the [Minecraft Server Tools](https://mctools.org/motd-creator) website to create MOTD more easily!
 
 :::
 
-### Промяна чрез плъгин: ServerListPlus или MiniMOTD
-Промяната на MOTD чрез плъгин добавя повече функционалност, както и по-лесна редактация.
+### Changing via Plugins: ServerListPlus or MiniMOTD
+Changing the MOTD through a plugin adds more functionality and easier editing.
 
-[Научи как да промениш MOTD чрез ServerListPlus]
+[Learn how to change MOTD using ServerListPlus]
 
-[Научи как да промениш MOTD чрез MiniMOTD]
+[Learn how to change MOTD using MiniMOTD]
 
 ---
 
-## Икона на сървъра (server-icon)
-Иконата на сървъра е изображение, което се показва на играч, когато той добави сървър към листа си със сървъри в Minecraft.
-То може да бъде променено чрез добавяне на файл към главната директория на сървъра.
+## Server Icon (server-icon)
+The server icon is an image displayed to a player when they add a server to their server list in Minecraft. It can be changed by adding a file to the server's main directory.
 
-**За да поставим икона на сървъра, то трябва да качим файл със следните характеристики в главната директория на сървъра: големина на изображението 64x64 пиксела, формат ``.png``, както и име ``server-icon.png``**
+To set a server icon, you need to upload a file with the following characteristics to the server's main directory: image size 64x64 pixels, format `.png`, and the name `server-icon.png`.

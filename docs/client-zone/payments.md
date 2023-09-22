@@ -1,50 +1,37 @@
 ---
 sidebar_position: 1
 hide_title: true
-title: Подновяване и плащания
-sidebar_label: Подновяване и плащания
-description: Подновяване и плащания
+title: Renewal and Payments
+sidebar_label: Renewal and Payments
+description: Renewal and Payments
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Подновяване и плащания</h1>
+<h1>Renewal and Payments</h1>
 </div>
 
-В тази статия ще научиш всичко за подновяването на услуга, плащания, както и методите на плащания, които поддържаме!
+In this article, you will learn everything about renewing your service, payments, and the supported payment methods!
 
 ---
 
-## Подновяване на услуга
-Подновяването на услуга е изключително лесно! Начина, по който можете да подновите услуга ще зависи спрямо начина
-на плащане, който сте избрали.
+## Service Renewal
+Renewing your service is incredibly easy! The way you can renew a service depends on the payment method you have chosen.
 
 ---
 
-## Плащания
-Услуга може да бъде плащана по следните начини:
+## Payments
+A service can be paid / pre-paid for the following durations:
 
-- Месечно - плащане веднъж всеки месец за следващите 30 дни.
-- Тримесечно, 10% по-евтино - плащане веднъж на 3 месеца за следващите 90 дни.
-- Годишно, 20% по-евтино - плащане веднъж годишно за следващите 365 дни.
+- Monthly - payment once every month for the next 30 days.
+- Quarterly, 10% cheaper - payment once every 3 months for the next 90 days.
+- Yearly, 20% cheaper - payment once a year for the next 365 days.
 
 ---
 
-## Методи на Плащане
-MazenHost е компания регистрирана в България, София и като такава оперира, както и на Българския, то така и на
-международния пазар. Спрямо това, методите на плащане в България ще варират от международните такива.
-
-### България
-Методите на плащане, които предлагаме в България са:
-- PayPal - разплащане чрез PayPal акаунт.
-- Visa - разплащане чрез Visa карта в сигурна, криптирана онлайн среда.
-- Mastercard - разплащане чрез Mastercard арта в сигурна, криптирана онлайн среда.
-- Банков Трансфер - паричен превод от една към друга банкова сметка чрез ел. банкиране или клон на банката.
-- Офиси на EasyPay - паричен превод чрез клон на EasyPay или онлайн чрез ePay.bg.
-
-### Международно
-Методите на плащане, които предлагаме международно са:
+## Payment Methods
+The payment methods we offer are:
 - PayPal
 - Visa
 - Mastercard

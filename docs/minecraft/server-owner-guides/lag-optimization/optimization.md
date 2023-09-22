@@ -1,36 +1,32 @@
 ---
 sidebar_position: 2
 hide_title: true
-title: Оптимизирай сървъра си
-sidebar_label: Оптимизирай сървъра си
-description: Как да оптимизираме нашия Minecraft сървър
+title: Optimize Your Server
+sidebar_label: Optimize Your Server
+description: How to optimize your Minecraft server
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Оптимизирай сървъра си</h1>
+<h1>Optimize Your Server</h1>
 </div>
 
-След като си прочел **[Намери причината за лаг](find-cause.md)**, най-вероятно се чудиш как да оптимизираш сървъра си.
-Не се притеснявай, защото в тази статия ще научиш как можеш да го направиш.
+After reading **[Find the Cause of Lag](find-cause.md)**, you're probably wondering how to optimize your server. Don't worry because in this article, you'll learn how to do it.
 
 ---
 
 ## [YouHaveTrouble - minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization)
-Силно препоръчвам да прочетеш ръководството на YouHaveTrouble относно сървърната оптимизация, защото то покрива редица
-важни теми и настройки, които да приложиш.
+I highly recommend reading YouHaveTrouble's guide on server optimization because it covers several important topics and settings that you can apply.
 
-:::caution Внимание
+:::caution Caution
 
-Тъй като всеки Minecraft сървър е различен, силно препоръчвам да не копираш стойността на настройките в ръководството на
-YouHaveTrouble, а внимателно да прочетеш как настройката променя и афектира сървъра ти!
+Since every Minecraft server is different, I strongly recommend not copying the settings from YouHaveTrouble's guide but rather carefully reading how each setting changes and affects your server!
 
 :::
 
-:::note Забележка
+:::note Note
 
-Ръководството на YouHaveTrouble - minecraft-optimization е на Английски език. Ако не владееш добре езика, най-вероятно
-ще имаш трудност с разбирането му. Ще се постараем да преведем ръководството на български съвсем скоро!
+YouHaveTrouble's minecraft-optimization guide is in English. If you're not proficient in the language, you may have difficulty understanding it. We'll try to translate the guide into Bulgarian very soon!
 
 :::

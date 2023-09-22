@@ -1,40 +1,40 @@
 ---
 sidebar_position: 4
 hide_title: true
-title: Как да сложим Whitelist
-sidebar_label: Как да сложим Whitelist
-description: Как да сложим Whitelist на нашия Minecraft сървър
+title: How to Set Up a Whitelist
+sidebar_label: How to Set Up a Whitelist
+description: How to set up a Whitelist on your Minecraft server
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Как да сложим Whitelist</h1>
+<h1>How to Set Up a Whitelist</h1>
 </div>
 
-Белият Списък е полезна функция, която Minecraft предоставя за ограничаване на достъпа до сървър.
+The Whitelist is a useful feature that Minecraft provides to restrict access to a server.
 
 ---
 
-## Whitelist Команди
-- ``/whitelist on`` - включва белият списък
-- ``/whitelist off`` - изключва белият списък
-- ``/whitelist add [името на играч]`` - добавя играч към белият списък
-- ``/whitelist remove [името на играч]`` - премахва играч от белият списък
-- ``/whitelist list`` - показва имената на играчи, които са добавени към белият списък
-- ``/whitelist reload`` - ако файлът на белият списък е променен ръчно, то командата презарежда списъка, за да отчете промените
+## Whitelist Commands
+- ``/whitelist on`` - enables the whitelist
+- ``/whitelist off`` - disables the whitelist
+- ``/whitelist add [player name]`` - adds a player to the whitelist
+- ``/whitelist remove [player name]`` - removes a player from the whitelist
+- ``/whitelist list`` - shows the names of players added to the whitelist
+- ``/whitelist reload`` - if the whitelist file has been manually changed, this command reloads the list to reflect the changes
 
 ---
 
-## Whitelist Файл
-Файлът на белият списък, т.е. ``whitelist.json`` съдържа имената на играчите добавени към списъка. Той е в формат ``.json``, което прави редактирането му трудно без познаване на особеностите на формата.
-Сайтът [Minecraft Server Tools](https://mctools.org/whitelist-creator) има опцията да генерира текст, който да бъде поставен в файла на белият списък.
+## Whitelist File
+The whitelist file, i.e., ``whitelist.json``, contains the names of players added to the list. It is in JSON format, making it challenging to edit without knowledge of the format's specifics.
+The [Minecraft Server Tools](https://mctools.org/whitelist-creator) website has an option to generate text to be placed in the whitelist file.
 
-### [Видео наръчник на тема Как да добавим Whitelist (бял списък) в нашият сървър](https://www.youtube.com/watch?v=P5vmTt7YyvI)
-Във видеото направено от нас, покриваме темата относно добавянето на Whitelist в Minecraft сървър.
+### [Video Tutorial on How to Add a Whitelist to Your Server](https://www.youtube.com/watch?v=P5vmTt7YyvI)
+In our video, we cover the topic of adding a whitelist to a Minecraft server.
 
-:::danger Опасност
+:::danger Caution
 
-Не подкрепяме пиратството! Сървъри с опцията ``online-mode=false`` не работят правилно с функциите на Whitelist!
+We do not support piracy! Servers with the ``online-mode=false`` option do not work correctly with Whitelist features!
 
 :::

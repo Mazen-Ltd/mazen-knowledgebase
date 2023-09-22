@@ -1,38 +1,30 @@
 ---
 sidebar_position: 3
 hide_title: true
-title: Ефект на Дънинг - Крюгер
-sidebar_label: Ефект на Дънинг - Крюгер
-description: Добри практики и трикове при администрацията на Minecraft сървър - Ефект на Дънинг - Крюгер
+title: The Dunning-Kruger Effect
+sidebar_label: The Dunning-Kruger Effect
+description: Best practices and tricks for Minecraft server administration - The Dunning-Kruger Effect
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Ефект на Дънинг – Крюгер (3/6)</h1>
+<h1>The Dunning-Kruger Effect (3/6)</h1>
 </div>
 
-> Ефектът на Дънинг – Крюгер е когнитивна склонност, при която неквалифицирани индивиди страдат от 
-> илюзорно превъзходство, изразяващо се в надценяване на собствените познавателни способности. 
-> Тази склонност се приписва на метакогнитивната неспособност на неквалифицирания да разпознава грешките си.
+> The Dunning-Kruger Effect is a cognitive bias in which unskilled individuals suffer from illusory superiority,
+> mistakenly rating their ability as much higher than it actually is. This bias is attributed to a metacognitive
+> inability of the unskilled to recognize their mistakes.
 > <img src={('/img/dunning-kruger.png')} alt="dunning kruger effect image" height="45%" width="45%" />
-> 
+>
 > — Wikipedia
 
 ---
 
-## По-лесно тълкуване на понятието
-Използвайки по-прост език, можем да кажем, че хората, които не знаят много за нещо, обикновено се смятат за много 
-по-умни или способни, отколкото са наистина. Те се заблуждават за своите умения, защото липсват на знание, за да оценят 
-правилно собствените си ограничения.
+## A Simpler Interpretation of the Concept
+In simpler terms, we can say that people who don't know much about something usually consider themselves much smarter or more capable than they really are. They are misled about their abilities because they lack the knowledge to accurately assess their own limitations.
 
-## Какъв извод можем да направим
-На първо място, не трябва да подценяваме нещата. Понякога нещо, което изглежда елементарно може да ни се струва лесно
-и просто, но реално погледнато изобщо да не е така както изглежда. А на второ място, никога не трябва да си мислим, че
-знаем абсолютно всичо, защото винаги има нещо, което можем да научим, за да допълним нашите знания.
+## What Conclusion Can We Draw
+Firstly, we should not underestimate things. Sometimes, something that seems elementary may appear easy and straightforward, but in reality, it may not be as it seems. Secondly, we should never think that we know absolutely everything because there is always something more to learn to enhance our knowledge.
 
-Например, Тошко работи нещо от много години и е голям експерт. Толкова е добър, че му отнема отрицателно време да
-свърши нещата, които има като задачи. Николай обаче смята, че това което Тошко работи, то той би могъл да направи
-по-бързо, защото според него било "лесно". Да, и Николай се опитва да свърши задачите, които Тошко върши, за да му
-покаже, че е прав, но осъзнава, че е подценил сложността им. В крайна сметка Николай е допуснал тази грешка, защото
-не е имало достатъчно информация относно тънкостите и подробностите свързани със задачите, по които Тошко работи всеки ден.
+For example, Toshko has been working on something for many years and is a great expert. He's so good that it takes him a negative amount of time to complete tasks he has. However, Nikolay thinks that what Toshko is working on, he could do faster because he considers it "easy." Yes, Nikolay tries to do the tasks that Toshko does to prove he's right, but he realizes that he underestimated the complexity. In the end, Nikolay has made this mistake because there wasn't enough information about the nuances and details related to the tasks Toshko works on every day.

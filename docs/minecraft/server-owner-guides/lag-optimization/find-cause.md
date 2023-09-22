@@ -1,113 +1,74 @@
 ---
 sidebar_position: 1
 hide_title: true
-title: Намери причината за лаг
-sidebar_label: Намери причината за лаг
-description: Как да намерим причината за лаг в нашия Minecraft сървър
+title: Find the Cause of Lag
+sidebar_label: Find the Cause of Lag
+description: How to find the cause of lag on your Minecraft server
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
 
 <div class="text--center">
-<h1>Намери причината за лаг</h1>
+<h1>Find the Cause of Lag</h1>
 </div>
 
-Изпитваш лаг в сървъра си? Значи тази статия е правилното място за теб! Тук ще разгледаме какви инструменти можеш
-да използваш, за да диагностицираш причината за лаг в Minecraft сървъра си, както и да да я отстраниш. Продължи да
-четеш, ако се интересуваш от темата.
+Are you experiencing lag on your server? Then this article is the right place for you! Here, we will explore the tools you can use to diagnose the cause of lag on your Minecraft server and how to resolve it. Keep reading if you are interested in this topic.
 
 ---
 
-## Какво е лагът?
-Добре, но преди да започнем ще трябва да разберем: какво точно е лагът? Лагът обикновенно е забавяне на Minecraft 
-сървъра, което довежда до нямаляване на неговата скорост и съответно забавяне на действията в играта. 
-Изразява се в забавяне при интеракции с блокове, връщане на движения, като например при ходене, замръзяването 
-на мобове, и други смущения.
+## What is Lag?
+Before we begin, we need to understand what exactly is lag. Lag is usually a delay on a Minecraft server, resulting in reduced speed and a slowdown in in-game actions. It manifests as delays in block interactions, movement, mob freezing, and other disruptions.
 
-## Какво може да причини лаг?
-Често лаг се проявява когато производителността на сървъра не може да се справи с натоварването 
-на играчи, плъгини, модове или света на играта. Изразява се в забавяне при интеракциите с блокове, връщането
-на движения, като например при ходене, замръзването на мобове, и други смущения.
-Това се получава, защото вътрешният часовник на Minecraft работи в тикове, които са дискретни интервали 
-от време, при които различни процеси в сървъра се ъпдейтват.
+## What Can Cause Lag?
+Lag often occurs when a server's performance cannot handle the load of players, plugins, mods, or the game world. It results from the server struggling to keep up with the default tick rate, which is the rate at which various processes within the server are updated.
 
 ---
 
-## Какво е TPS?
-TPS е съкращението на Ticks Per Second, или на български тикове в секунда и показва колко тика се обработват от сървъра 
-в рамките на 1 секунда. Стойността по подразбиране е 20 TPS, което означава, че сървъра се стреми да ъпдейтва логиката 
-на играта 20 пъти в секунда.
+## What is TPS?
+TPS stands for Ticks Per Second, indicating how many ticks the server processes within 1 second. The default value is 20 TPS, meaning the server aims to update the game's logic 20 times per second.
 
-В случай, където TPS-а на сървъра е под 20, това индикира, че сървъра изпитва затруднения да поддържа бройката
-ъпдейти в секунда по подразбиране. Например, ако сървъра работи на 15 TPS, означава че логиките на сървъра и играта
-се ъпдейтват 15 пъти в секунда, за разлика от оптималните 20 пъти. От своя страна, това може да доведе до проблемите
-посочени в горната тема.
+In cases where the server's TPS is below 20, it indicates that the server is struggling to maintain the default update rate. For example, if the server is running at 15 TPS, it means that the server's logic and the game are updated 15 times per second, instead of the optimal 20 times. This, in turn, can lead to the issues mentioned in the previous section.
 
 ---
 
-## Хардуер или Софтуер е причината?
-Най-добрият въпрос - дали проблемът е в хардуера или софтуера, който сървъра ми използва.
+## Is It Hardware or Software?
+The key question is whether the problem lies in the hardware or software that your server is using.
 
-Нека започнем с хардуер, защото първо него споменаваме в заглавието на темата. Безспорно, версиите на Minecraft 1.13+
-направиха поддръжката и администрацията на един Minecraft сървър сравнително по-трудна. Това се изразява главно в
-факта, че Minecraft сървърите са много по-интензивни спрямо ресурси от всякога. И тази интензивност само се покачва с
-излизането на нови версии на играта. В редки случаи, хардуерът може да се окаже проблемът зад производителността на
-един сървър. Това обаче, силно се определя от това какви процесори използва дадена хостинг компания. Процесорите
-излезли в последните няколко години са повече от способни да поддържат един Minecraft сървър, без абсолютно
-никакви проблеми, дори и на най-новите версии.
+Let's start with hardware since we mentioned it first in the title of this topic. Undoubtedly, Minecraft versions 1.13 and beyond made managing and administering a Minecraft server relatively more challenging. This is primarily because Minecraft servers are much more resource-intensive than ever before. This increased intensity escalates with each new game version release. In rare cases, hardware can indeed be the problem behind server performance. However, this strongly depends on the type of processors used by the hosting company. Processors released in recent years are more than capable of supporting a Minecraft server without any issues, even on the latest versions.
 
-Следващата възможна причина за лаг е именно софтуера, който използва един Minecraft сървър. Това са добавките, които
-можем да инсталираме на нашия сървър, а именно плъгини и модове.
+The next possible cause of lag is the software your Minecraft server is using. These are the add-ons we can install on our server, namely plugins and mods.
 
-Нека отбележа, че откриването на лаг причинен от плъгин е сравнително по-лесно отколкото при лаг от модове. Именно
-заради това тази статия ще се фокусира главно над откриването на лаг причинен от плъгини. За наш късмет е изключително
-лесно, за да открием лаг причинен от някой плъгин, защото имаме голям набор от инструменти, които можем да използваме.
+It's worth noting that detecting lag caused by plugins is relatively easier compared to lag caused by mods. Therefore, this article will primarily focus on detecting lag caused by plugins. Fortunately, detecting lag caused by a plugin is relatively straightforward because we have a wide range of tools at our disposal.
 
-Плъгините често могат да причиняват лаг, тъй като може да не са добре оптимизирани или настроени. При оптимизацията
-проблемът най-често идва от разработчика на плъгина, като това означава, че определена логика не е написана достатъчно
-ефективно и би могла да се оптимизира. Най-добре е подобни проблеми да се докладват обратно към разработчика, за да може
-те да бъдат отстранени, което съответно ще подобри плъгина и за останалите сървъри, които го използват. При настройването
-нещата стоят малко по-различно, като грешката тук може да бъде причинена и от администратора на Minecraft сървъра.
-Обикновенно, някои плъгини имат настройки, които могат значително да намалят производителността на сървъра. Разработчиците
-често ги отбелязват с коментар в конфигурационния файл на плъгина или някъде в документацията на плъгина.
+Plugins often introduce lag because they may not be well-optimized or configured. In terms of optimization, the issue usually stems from the plugin developer, indicating that a particular logic is not written efficiently and could be optimized. It's best to report such issues back to the developer for resolution, which, in turn, improves the plugin for other servers that use it. When it comes to configuration, things are a bit different, as the error here may be caused by the Minecraft server administrator. Usually, some plugins have settings that can significantly impact server performance. Developers often annotate these settings in the plugin's configuration file or in the plugin's documentation.
 
-:::info Информация
+:::info Information
 
-> MazenHost се стреми да предоставя най-доброто качество на услугите, които предлага. За нашите Minecraft услуги, ние
-> използваме сървъри с Ryzen процесори и спецификации от последно поколение, които задоволяват нуждите на нашите клиенти.
+> MazenHost strives to provide the best quality of the services it offers. For our Minecraft services, we use servers with Ryzen processors and the latest specifications that meet the needs of our clients.
 >
-> Ако искаш да научиш повече за характеристиките и спецификациите на услугите ни, то тогава можеш да посетиш статиите:
-> **[Технически детайли - Minecraft](/docs/services-description/minecraft-service.md)** & **[Технически детайли - VPS](/docs/services-description/vps-service.md)**
-> 
+> If you want to learn more about the features and specifications of our services, you can visit the articles: **[Technical Details - Minecraft](/docs/services-description/minecraft-service.md)** & **[Technical Details - VPS](/docs/services-description/vps-service.md)**
+>
 > — MazenHost
 
 :::
 
 ---
 
-## Профайлъри за диагностика на лаг
-Това са набор от инструменти, които можем да използваме, за да диагностицираме откъде може да идва лагът. Те са 
-предназначени единствено за сървъри, които използват софтуер поддържащ плъгини.
+## Lag Diagnostic Profilers
+These are a set of tools that we can use to diagnose where lag may be coming from. They are specifically designed for servers that use software that supports plugins.
 
-Имай на предвид, че тези т.нар. инструменти са още по-добре познати като профайлъри. Когато ги използваме, ние
-пускаме профайлър, което създава профил с информация за производителността на сървъра ни в определен период от време.
-Спрямо информацията събрана от профайлъра ние можем да открием конкретната причината за лаг.
+Keep in mind that these tools are more commonly known as profilers. When we use them, we run a profiler, which creates a profile with performance information about our server over a certain period. Based on the information collected by the profiler, we can identify the specific cause of lag.
 
 ### Timings (v1 & v2)
-Първият инструмент за диагностика на лаг, за който ще говорим е именно Timings. Те се разделят на 2 версии, като
-v1 е включена в софтуера Spigot, а v2 е включена в софтуера Paper и всеки от неговите форкове.
+The first lag diagnostic tool we'll discuss is Timings. They are divided into two versions, where v1 is included in Spigot software, and v2 is included in Paper software and all of its forks.
 
-Особеностите между двете версии са сравнителни, но това което трябва да знаем е, че v2 предоставя много повече опции
-за диагностика на лаг. Именно поради това препоръчваме използването на Paper или някой от неговите форкове, защото
-те не само предоставят по-добра произовидтелност, но и по-добри инструменти за диагностика на лаг.
+The differences between the two versions are relative, but what you need to know is that v2 provides many more options for lag diagnostics. That's why we recommend using Paper or one of its forks, as they not only offer better performance but also better lag diagnostic tools.
 
-:::caution Внимание
+:::caution Caution
 
-PaperMC обявиха, че Timings v2 скоро ще бъдат заменени от Minecraft плъгина за диагностициране на лаг spark. Ако искаш
-да научиш повече за промяната, можеш да посетиш предложението в GitHub: **[Replace Timings with Spark](https://github.com/PaperMC/Paper/issues/8948)**
+PaperMC has announced that Timings v2 will soon be replaced by the Minecraft lag diagnostic plugin spark. If you want to learn more about this change, you can visit the proposal on GitHub: **[Replace Timings with Spark](https://github.com/PaperMC/Paper/issues/8948)**
 
 :::
 
 ### spark
-spark е Minecraft плъгин, който служи за диагностицирането на лаг. Той предлага същите, ако не и по-мощни функции за
-откриването на лаг от Timings v2, но също така е и по-лесен за начинаещи.
+spark is a Minecraft plugin used for lag diagnostics. It offers the same, if not more powerful, lag detection features as Timings v2 but is also easier for beginners to use.
