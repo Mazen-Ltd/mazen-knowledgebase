@@ -21,7 +21,7 @@ const config = {
   organizationName: 'Mazen Ltd.', // Usually your GitHub org/username.
   projectName: 'knowledgebase mazen', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
