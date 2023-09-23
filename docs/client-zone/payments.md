@@ -33,6 +33,6 @@ A service can be paid / pre-paid for the following durations:
 ## Payment Methods
 The payment methods we offer are:
 - PayPal
-- Visa
-- Mastercard
-- Bank Transfer
+- Visa, Mastercard, AMEX
+- Google & Apple Pay
+- Other cards supported by [myPos Virtual](https://www.mypos.com/en-gb)

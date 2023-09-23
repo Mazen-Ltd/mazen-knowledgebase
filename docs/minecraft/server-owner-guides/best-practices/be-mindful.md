@@ -13,7 +13,7 @@ image: /img/banner.png
 <h1>Be Aware of What You're Doing (1/6)</h1>
 </div>
 
-This is a guide of best practices and tricks for managing and administering a public Minecraft server.
+This is a guide of best practices and tricks for managing and administering a public/community Minecraft server.
 The advice here can be applied to both smaller and larger servers. Their aim is to help you find direction
 and learn to solve your problems independently or by finding the right place to seek assistance.
 

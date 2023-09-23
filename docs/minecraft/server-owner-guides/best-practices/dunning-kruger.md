@@ -23,8 +23,18 @@ description: Best practices and tricks for Minecraft server administration - The
 
 ## A Simpler Interpretation of the Concept
 In simpler terms, we can say that people who don't know much about something usually consider themselves much smarter or more capable than they really are. They are misled about their abilities because they lack the knowledge to accurately assess their own limitations.
+> <img src={('/img/kruger-curve.jpg')} alt="dunning kruger effect image" height="70%" width="70%" />
 
-## What Conclusion Can We Draw
-Firstly, we should not underestimate things. Sometimes, something that seems elementary may appear easy and straightforward, but in reality, it may not be as it seems. Secondly, we should never think that we know absolutely everything because there is always something more to learn to enhance our knowledge.
+## What Conclusion Can We Draw?
+>Firstly, we should not underestimate things. Sometimes, something that seems elementary may appear easy and straightforward, but in reality, it may not be as it seems. Secondly, we should never think that we know absolutely everything because there is always something more to learn to enhance our knowledge.
 
-For example, Toshko has been working on something for many years and is a great expert. He's so good that it takes him a negative amount of time to complete tasks he has. However, Nikolay thinks that what Toshko is working on, he could do faster because he considers it "easy." Yes, Nikolay tries to do the tasks that Toshko does to prove he's right, but he realizes that he underestimated the complexity. In the end, Nikolay has made this mistake because there wasn't enough information about the nuances and details related to the tasks Toshko works on every day.
+For example, Toshko has been working on something for many years and is a great expert.
+He's so good that it takes him a negative amount of time to complete tasks he has. 
+However, Nikolay thinks that what Toshko is working on, he could do faster because he considers it "easy."
+Yes, Nikolay tries to do the tasks that Toshko does to prove he's right, but he realizes that he underestimated the complexity. 
+In the end, Nikolay has made this mistake because there wasn't enough information about the nuances and details related to the tasks Toshko works on every day.
+
+## My Personal Advice
+
+ - Everyone starts as a beginner, and everyone has to learn. 
+ - Be patient and don't rush to conclusions. Be ready to feel stupid sometimes, but don't let that stop you from learning.

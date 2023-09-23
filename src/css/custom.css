@@ -36,6 +36,19 @@
   font-size: 18px;
   background-color: #242526;
 }
+.outlined-box {
+  border-left: 5px solid var(--ifm-color-primary);
+  border-radius: var(--ifm-alert-border-radius);
+  padding: 8px;
+}
+.menu__link--active:not(.menu__link--sublist) {
+  --size: 4px;
+
+  border-left-width: var(--size);
+  border-left-style: solid;
+  border-left-color: var(--ifm-menu-color-active);
+  padding-left: calc(var(--ifm-menu-link-padding-horizontal) - var(--size));
+}
 
 blockquote {
   border-left: 5px solid #c47001;
