@@ -30,9 +30,6 @@ The Whitelist is a useful feature that Minecraft provides to restrict access to 
 The whitelist file, i.e., ``whitelist.json``, contains the names of players added to the list. It is in JSON format, making it challenging to edit without knowledge of the format's specifics.
 The [Minecraft Server Tools](https://mctools.org/whitelist-creator) website has an option to generate text to be placed in the whitelist file.
 
-### [Video Tutorial on How to Add a Whitelist to Your Server](https://www.youtube.com/watch?v=P5vmTt7YyvI)
-In our video, we cover the topic of adding a whitelist to a Minecraft server.
-
 :::danger Caution
 
 We do not support piracy! Servers with the ``online-mode=false`` option do not work correctly with Whitelist features!

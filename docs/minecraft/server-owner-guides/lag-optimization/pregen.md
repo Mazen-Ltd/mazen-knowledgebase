@@ -50,9 +50,6 @@ The steps are once again extremely easy, and as long as you follow them, you can
 
 ---
 
-### [Video Tutorial - How to Pre-generate Chunks in Your Minecraft Server World](https://www.youtube.com/watch?v=ybXWd0KPfmw)
-In our video tutorial, we cover the topic of chunk pre-generation in a Minecraft world and demonstrate how you can do it without even entering the server!
-
 :::note Note
 
 Keep in mind that if you already have a location serving as the Spawn Point on your server, you'll likely need to set it in advance so that Chunky knows it should be the center of the world. You can do this using the command: ``/chunky center [X and Z coordinates]``.

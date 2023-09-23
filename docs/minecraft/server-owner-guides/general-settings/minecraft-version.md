@@ -13,6 +13,10 @@ description: Differences between different versions and server software for Mine
 </div>
 
 ---
+## One-click install:
+> Find all of the software we support with one-click install here [MazenLibrary](https://www.mazenhost.com/library)
+> This includes, modpacks, templates & other server software.
+
 
 ## Which Version Is Right for Us?
 Depending on the type of server you want to have, you'll need to choose a version for it.
@@ -37,16 +41,18 @@ Not every software supports every version of the game; some of the newer ones on
 ---
 
 ## Which Software Is Right for Us?
-There is a wide range of software available for Minecraft servers. They are mainly divided into 2 categories, but there are exceptions. These categories are **software that supports plugins** and **software that supports mods**. There are also **hybrid software** that support both plugins and mods installation. However, most of them are highly experimental and not recommended for use, especially by larger servers!
+There is a wide range of software available for Minecraft servers. They are mainly divided into 3 categories, but there are exceptions. These categories are **software that supports plugins**,  **software that supports mods** and **software for proxies**. There are also **hybrid software** that support both plugins and mods installation. However, most of them are highly experimental and not recommended for use, especially by larger servers!
 
 ## Software that Supports Plugins
 
 ### Recommended Software
 ### [Paper](https://papermc.io/downloads/paper)
 Paper is software based on Spigot that significantly improves performance and adds advanced API features. This software fixes bugs, exploits, and inconsistencies, adding more stability and consistency to your Minecraft server. Additionally, the added API methods allow plugin developers to create more powerful, fast, and efficient plugins.
+- Recommended over Bukkit and Spigot, as it's more stable and provides very high performance.
 
 ### [Purpur](https://purpurmc.org/)
-Purpur is a modification of Paper that includes various optimizations from other server software, one of which is Pufferfish. In addition to combining these optimizations, Purpur adds a multitude of new settings that allow customization of your Minecraft server. By default, all these settings are turned off, but they can be easily enabled and adjusted.
+Purpur is a modification of Paper that includes various optimizations from other server software, one of which is Pufferfish. In addition to combining these optimizations, Purpur adds a multitude of new settings that allow customization of your Minecraft server. By default, all these settings are turned off, but they can be easily enabled and adjusted. 
+ - Recommended if you seek to add more gameplay enhancements.
 
 ---
 

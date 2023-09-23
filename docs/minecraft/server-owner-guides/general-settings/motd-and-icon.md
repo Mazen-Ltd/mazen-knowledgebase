@@ -15,7 +15,8 @@ description: How to change the MOTD on your Minecraft server & How to add a Serv
 ---
 
 ## Message of the Day (MOTD)
-In Bulgarian, "Message of the Day" refers to the two lines displayed to a player when they add a server to their server list in Minecraft. It can be changed in several ways, which we will explore.
+"Message of the Day" refers to the two lines displayed to a player when they add a server to their server list in Minecraft. It can be changed in several ways, which we will explore.
+<img src={('/img/hypixel.png')} alt="banner" height="70%" width="70%" />
 
 ### Changing via the `server.properties` File
 The easiest way to change the MOTD is through the `server.properties` file. The option is located on line #12 and appears as follows: `motd=A Minecraft Server`

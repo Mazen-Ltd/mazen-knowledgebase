@@ -24,9 +24,3 @@ I highly recommend reading YouHaveTrouble's guide on server optimization because
 Since every Minecraft server is different, I strongly recommend not copying the settings from YouHaveTrouble's guide but rather carefully reading how each setting changes and affects your server!
 
 :::
-
-:::note Note
-
-YouHaveTrouble's minecraft-optimization guide is in English. If you're not proficient in the language, you may have difficulty understanding it. We'll try to translate the guide into Bulgarian very soon!
-
-:::
