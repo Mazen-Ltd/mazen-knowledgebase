@@ -37,7 +37,7 @@ This enhanced panel is feature-rich, offering the following:
 - **Manual Backups**: Every plan comes with the capability to store up to 3 manual backups, ensuring data safety.
 
 ### Memory Allocation & SWAP
-Given the importance of memory in server performance, we have allocated additional SWAP memory, so the JVM (Simply put "The Java process running the server")
+We have allocated additional SWAP memory for overhead, so the JVM (Simply put "The Java process running the server")
 will operate freely and thus avoiding OOM / out of memory / Errors. Here's a breakdown of our memory allocation per plan:
 :::info
 - **32GB Plan**: 4GB SWAP
@@ -47,6 +47,10 @@ will operate freely and thus avoiding OOM / out of memory / Errors. Here's a bre
 - **4GB RAM Plan**: 2GB SWAP
 - **2GB RAM Plan**: 1GB SWAP
 :::
+
+### Backups and Redundancy
+Our servers' disks are in RAID 1 or RAID 10, meaning that if a disk fails, no data will be lost as the data is copied in real-time to more than 1 disk.
+We provide automatic backups for each service, which run once a day. They are stored on a separate server and kept for up to 2 days. Additionally, each plan comes with the ability to store up to 3 manual backups that you can control.
 
 ### CPU Allocation
 :::note
