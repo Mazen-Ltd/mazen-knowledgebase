@@ -16,7 +16,7 @@ description: Service Cancellation & Deletion
 ## Service Cancellation
 
 Our billing cycles are described in the [Payments & Renewal page](/docs/client-zone/payments-renewal) 
-TLDR; If you do not pay for a service and wait for it to expire, it will be terminated automatically.
+> TLDR; If you do not pay for a service and wait for it to expire, it will be terminated automatically.
 
 You can also cancel your service at any time by logging into the [Client Zone](https://client.mazenhost.com) and navigating to the service you wish to cancel.
 Then you should use the `Request Cancellation` button to submit a cancellation request.
