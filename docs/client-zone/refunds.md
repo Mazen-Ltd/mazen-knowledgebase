@@ -12,8 +12,8 @@ description: Refund Policy
 <h1>Refund Policy</h1>
 </div>
 
-Our 3 days refund policy gives you time to make sure your purchase is perfect. 
-We want you to love your service and care about your satisfaction.
+Our 3 days refund policy gives you time to make sure you like our services and they are suitable for you. 
+We care about your satisfaction, not your money.
 
 ### How to request a refund
 

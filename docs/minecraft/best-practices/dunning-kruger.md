@@ -28,11 +28,11 @@ In simpler terms, we can say that people who don't know much about something usu
 ## What Conclusion Can We Draw?
 >Firstly, we should not underestimate things. Sometimes, something that seems elementary may appear easy and straightforward, but in reality, it may not be as it seems. Secondly, we should never think that we know absolutely everything because there is always something more to learn to enhance our knowledge.
 
-For example, Toshko has been working on something for many years and is a great expert.
+For example, Stevan has been working on something for many years and is a great expert.
 He's so good that it takes him a negative amount of time to complete tasks he has. 
-However, Nikolay thinks that what Toshko is working on, he could do faster because he considers it "easy."
-Yes, Nikolay tries to do the tasks that Toshko does to prove he's right, but he realizes that he underestimated the complexity. 
-In the end, Nikolay has made this mistake because there wasn't enough information about the nuances and details related to the tasks Toshko works on every day.
+However, George thinks that what Stevan is working on, he could do faster because he considers it "easy."
+Yes, George tries to do the tasks that Stevan does to prove he's right, but he realizes that he underestimated the complexity. 
+In the end, George has made this mistake because there wasn't enough information about the nuances and details related to the tasks Stevan works on every day.
 
 ## My Personal Advice
 
