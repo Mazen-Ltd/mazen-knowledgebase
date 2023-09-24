@@ -1,9 +1,9 @@
 {
-  "sidebar.docs.category.client-zone": {
+  "sidebar.docs.category.Client Zone": {
     "message": "Клиентска зона",
     "description": "Научи всичко, което ти трябва да знаеш за Клиентската ни Зона - разплащания и подновяване, ъпгрейди на услуги и др."
   },
-  "sidebar.docs.category.minecraft.server-owner-guides.best-practices": {
+  "sidebar.docs.category.Best Practices and Tips": {
     "message": "Добри практики и трикове",
     "description": "Добри практики при поддръжката и администрацията на публичен Minecraft сървър."
   },
