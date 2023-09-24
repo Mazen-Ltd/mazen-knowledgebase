@@ -15,14 +15,11 @@ description: Прекратяване и изтриване на услугат�
 ## Прекратяване на услугата
 
 Периодите на таксуване са описани в страницата [Плащания и подновяване](/i18n/bg/docusaurus-plugin-content-docs/current/client-zone/payments-renewal)
+Ако не платите услуга и изчакате да изтече, ще бъде прекратена автоматично.
 
 Можете да прекратите услугата си по всяко време, като влезете в [Клиентската зона](https://client.mazenhost.com/clientarea.php?language=bulgarian) и навигирате до услугата, която искате да прекратите.
 Трябва да използвате бутона `Request Cancellation`, за да изпратите заявка за прекратяване.
 <img src={('/img/Request-cancellation.png')} alt="Request Cancellation" height="35%" width="35%" />
-
-:::caution PayPal Subscriptions - Cancellation
-If you have setup automatic payments using PayPal, you should cancel your PayPal subscription to avoid being charged again. You can do that by logging into your PayPal account and navigating to the subscriptions page.
-:::
 
 ---
 
