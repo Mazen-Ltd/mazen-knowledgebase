@@ -29,7 +29,7 @@ Pre-generating chunks in a specific world using Chunky is super easy! Just follo
 
 :::info Information
 
-If you're not sure how to install a plugin, feel free to visit the article **[Adding a Plugin](/docs/minecraft/server-owner-guides/general-settings/add-plugin.md)**.
+If you're not sure how to install a plugin, feel free to visit the article **[Adding a Plugin](/docs/minecraft/general-settings/add-plugin.md)**.
 
 :::
 
