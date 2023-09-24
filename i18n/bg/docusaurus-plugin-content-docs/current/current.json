@@ -1,18 +1,30 @@
 {
-  "version.label": {
-    "message": "Next",
-    "description": "The label for version current"
+  "sidebar.docs.category.client-zone": {
+    "message": "Клиентска зона",
+    "description": "Научи всичко, което ти трябва да знаеш за Клиентската ни Зона - разплащания и подновяване, ъпгрейди на услуги и др."
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
-    "message": "Tutorial - Basics",
-    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.docs.category.minecraft.server-owner-guides.best-practices": {
+    "message": "Добри практики и трикове",
+    "description": "Добри практики при поддръжката и администрацията на публичен Minecraft сървър."
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
-    "message": "5 minutes to learn the most important Docusaurus concepts.",
-    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  "sidebar.docs.category.minecraft": {
+    "message": "Minecraft",
+    "description": "Всичко свързано с Minecraft ще намериш тук!"
   },
-  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
-    "message": "Tutorial - Extras",
-    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  "sidebar.docs.category.minecraft.server-owner-guides": {
+    "message": "Управление на сървър",
+    "description": "Научи някои от главните неща които ще са ти нужни, за да управляваш своя сървър."
+  },
+  "sidebar.docs.category.minecraft.server-owner-guides.general-settings": {
+    "message": "Основни настройки и сетъп",
+    "description": "Основни настройки, които можеш първоначално да приложиш при сетъп."
+  },
+  "sidebar.docs.category.minecraft.server-owner-guides.lag-optimization": {
+    "message": "Лаг и оптимизация",
+    "description": "Как да установиш какво причинява лаг и да го отстраниш."
+  },
+  "sidebar.docs.category.services-description": {
+    "message": "Характеристика на услугите",
+    "description": "Научи всичко което ти трябва да знаеш за клиентската ни зона разплащания и подновяване, ъпгрейди на услуги."
   }
 }
