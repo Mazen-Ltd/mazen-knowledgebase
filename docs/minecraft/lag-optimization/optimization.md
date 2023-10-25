@@ -4,6 +4,14 @@ hide_title: true
 title: Optimize Your Server
 sidebar_label: Optimize Your Server
 description: How to optimize your Minecraft server
+keywords:
+  - Fix low TPS
+  - Optimize server lag
+  - Fix lag minecraft
+  - Fix Server lag minecraft
+  - Minecraft server lag
+  - Minecraft lag
+  - Minecraft server low TPS
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

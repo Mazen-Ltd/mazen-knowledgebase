@@ -4,6 +4,12 @@ hide_title: true
 title: Find the Cause of Lag
 sidebar_label: Find the Cause of Lag
 description: How to find the cause of lag on your Minecraft server
+keywords:
+  - Fix lag minecraft
+  - Fix Server lag minecraft
+  - Minecraft server lag
+  - Minecraft lag
+  - Minecraft server low TPS
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

@@ -4,6 +4,11 @@ hide_title: true
 title: Choosing a Version and Software
 sidebar_label: Choosing a Version and Software
 description: Differences between different versions and server software for Minecraft servers
+keywords:
+  - Install modpack minecraft
+  - Change version minecraft
+  - Minecraft server version
+  - Minecraft Spigot Paper
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

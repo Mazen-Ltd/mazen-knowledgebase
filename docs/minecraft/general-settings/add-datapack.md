@@ -4,6 +4,10 @@ hide_title: true
 title: Adding a Data Pack
 sidebar_label: Adding a Data Pack
 description: How to add a Data Pack to your Minecraft server
+keywords:
+  - Datapack minecraft
+  - Server datapack
+  - How to add datapack
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

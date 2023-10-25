@@ -4,6 +4,10 @@ hide_title: true
 title: Adding a Plugin
 sidebar_label: Adding a Plugin
 description: How to add a Plugin to your Minecraft server
+keywords:
+  - plugin minecraft
+  - Server plugin add
+  - How to add plugin
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

@@ -4,6 +4,10 @@ hide_title: true
 title: Migrating Worlds to/from Vanilla
 sidebar_label: Migrating Worlds to/from Vanilla
 description: How to migrate a world to/from Vanilla in Minecraft
+keywords:
+  - Server change to vanilla
+  - migrate world server minecraft
+  - Minecraft world
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

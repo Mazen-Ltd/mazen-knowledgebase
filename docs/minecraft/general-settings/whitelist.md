@@ -4,6 +4,10 @@ hide_title: true
 title: How to Set Up a Whitelist
 sidebar_label: How to Set Up a Whitelist
 description: How to set up a Whitelist on your Minecraft server
+keywords:
+  - Whitelist minecraft
+  - Server Whitelist
+  - How to add Whitelist minecraft
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

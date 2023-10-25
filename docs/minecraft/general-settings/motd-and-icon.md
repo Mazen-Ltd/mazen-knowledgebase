@@ -4,6 +4,11 @@ hide_title: true
 title: MOTD & Server Icon
 sidebar_label: MOTD & Server Icon
 description: How to change the MOTD on your Minecraft server & How to add a Server Icon to your Minecraft server
+keywords:
+  - Server icon minecraft
+  - Minecraft add icon
+  - how to change motd
+  - Minecraft motd
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

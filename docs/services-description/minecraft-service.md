@@ -4,6 +4,9 @@ hide_title: true
 title: Minecraft Dedicated Hosting
 sidebar_label: Technical Delivery Details - Minecraft
 description: Details about how our Minecraft hosting services are provided
+keywords:
+  - Premium Minecraft hosting
+  - Minecraft hosting
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />

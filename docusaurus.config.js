@@ -48,6 +48,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+        metadata: [{name: 'og:site_name', content: 'MazenHost KnowledgeBase'},
+          {name: 'og:description', content: 'Learn more about Minecraft Hosting, Game Hosting, VPS and MazenHost with our docs.'},
+          {name: 'keywords', content: 'minecraft, minecraft hosting, minecraft server motd, server icon minecraft, datapack minecraft, plugins, plugin minecraft, whitelist setup minecraft, fix lag minecraft, optimize server, vanilla'}],
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {

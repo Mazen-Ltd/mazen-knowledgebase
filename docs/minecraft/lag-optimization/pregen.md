@@ -4,6 +4,13 @@ hide_title: true
 title: Chunk Pre-generation
 sidebar_label: Chunk Pre-generation
 description: How to pre-generate chunks in your Minecraft server world
+keywords:
+  - Generate Minecraft chunks
+  - Pregenerate chunks
+  - Fix TPS minecraft
+  - Fix lag minecraft
+  - Fix Server lag minecraft
+  - Minecraft server lag
 ---
 
 <img src={('/img/banner.png')} alt="banner" height="100%" width="100%" />
