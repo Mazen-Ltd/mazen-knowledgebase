@@ -22,6 +22,14 @@ Unlike Data Packs, plugins are only supported by software like Spigot, Paper, Pu
 
 ---
 
+:::info Information
+
+You can install plugins quickly and easily, with just one click, directly from our Game Panel. 
+To do this, simply open your server in the panel, then go to 
+the "Minecraft Tools" section, expand it, and select the "Plugins" subsection.
+
+:::
+
 ## How to Add a Plugin
 
 1. Download the plugin you want to use from a website like SpigotMC or BuiltByBit.
